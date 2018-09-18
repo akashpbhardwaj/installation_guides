@@ -1,0 +1,11 @@
+Step 1 : Open terminal by pressing Ctrl + Alt + T
+Strp 2 : Adding the repository 
+         sudo add-apt-repository ppa:webupd8team/atom
+         Press ENTER if asks for permission
+Step 3 : Update the Repository
+         Sudo apt-get update
+Step 4 : Install Atom
+         sudo apt-get install atom
+Step 5 : Search Atom in Apllication window and click on Atom 
+
+Heeeeyy,Great Mate you have successfully installed Atom in Your Machine.
